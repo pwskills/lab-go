@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "golang.go",
+    "golang.go-nightly",
+    "formulahendry.code-runner",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples"
+  ]
+}
