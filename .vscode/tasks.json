@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Running your app...",
+      "label": "Installing extensions and running your app...",
       "type": "shell",
-      "command": "go run hello.go",
+      "command": "code-server --install-extension formulahendry.code-runner && go run hello.go",
       "presentation": {
         "reveal": "always",
         "panel": "new"
