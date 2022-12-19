@@ -1,4 +1,4 @@
-# neurolab-go
+# lab-go
 
 Command to run hello.go file:
 
